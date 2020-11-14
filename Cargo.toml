@@ -1,0 +1,8 @@
+[package]
+name = "RestSh"
+version = "0.1.0"
+authors = ["laughingbnard <bnard@gmx.net>"]
+
+[lib]
+path ="./src/lib/lib.rs"
+
