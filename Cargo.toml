@@ -1,8 +1,10 @@
 [package]
-name = "RestSh"
+name = "restsh"
 version = "0.1.0"
 authors = ["laughingbnard <bnard@gmx.net>"]
 
 [lib]
 path ="./src/lib/lib.rs"
 
+[dependencies]
+clap = "3.0.0-beta.2"
